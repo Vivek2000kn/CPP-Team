@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(80,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(80,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(94,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(94,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ChessGameKPV.vcxproj -> C:\Users\Kavya\source\repos\ChessGameKPV\x64\Debug\ChessGameKPV.exe
