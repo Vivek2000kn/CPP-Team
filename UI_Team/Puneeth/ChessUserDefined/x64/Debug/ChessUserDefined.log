@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Kavya\source\repos\ChessUserDefined\ChessUserDefined\main.cpp(24,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kavya\source\repos\ChessUserDefined\ChessUserDefined\main.cpp(24,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kavya\source\repos\ChessUserDefined\ChessUserDefined\main.cpp(27,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kavya\source\repos\ChessUserDefined\ChessUserDefined\main.cpp(27,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ChessUserDefined.vcxproj -> C:\Users\Kavya\source\repos\ChessUserDefined\x64\Debug\ChessUserDefined.exe
