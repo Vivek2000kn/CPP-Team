@@ -1,0 +1,8 @@
+﻿  BL.cpp
+  main.cpp
+C:\Users\Rohith\Desktop\BDG\c++ training\code\GUI\cpp_chess_GUI\v2\ChessGameKPV\main.cpp(113,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rohith\Desktop\BDG\c++ training\code\GUI\cpp_chess_GUI\v2\ChessGameKPV\main.cpp(113,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rohith\Desktop\BDG\c++ training\code\GUI\cpp_chess_GUI\v2\ChessGameKPV\main.cpp(152,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rohith\Desktop\BDG\c++ training\code\GUI\cpp_chess_GUI\v2\ChessGameKPV\main.cpp(152,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  ChessGameKPV.vcxproj -> C:\Users\Rohith\Desktop\BDG\c++ training\code\GUI\cpp_chess_GUI\v2\x64\Debug\ChessGameKPV.exe
