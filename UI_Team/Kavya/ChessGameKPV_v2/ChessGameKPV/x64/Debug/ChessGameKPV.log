@@ -1,6 +1,9 @@
-﻿  main.cpp
-C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(130,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(130,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(165,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(165,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  ChessGameKPV.vcxproj -> C:\Users\Kavya\source\repos\ChessGameKPV\x64\Debug\ChessGameKPV.exe
+﻿  BL.cpp
+  main.cpp
+C:\Users\Rohith\Desktop\git\github\cpp\chess_project\CPP-Team\UI_Team\Kavya\ChessGameKPV_v2\ChessGameKPV\main.cpp(130,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rohith\Desktop\git\github\cpp\chess_project\CPP-Team\UI_Team\Kavya\ChessGameKPV_v2\ChessGameKPV\main.cpp(130,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rohith\Desktop\git\github\cpp\chess_project\CPP-Team\UI_Team\Kavya\ChessGameKPV_v2\ChessGameKPV\main.cpp(165,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rohith\Desktop\git\github\cpp\chess_project\CPP-Team\UI_Team\Kavya\ChessGameKPV_v2\ChessGameKPV\main.cpp(165,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  LINK : C:\Users\Rohith\Desktop\git\github\cpp\chess_project\CPP-Team\UI_Team\Kavya\ChessGameKPV_v2\x64\Debug\ChessGameKPV.exe not found or not built by the last incremental link; performing full link
+  ChessGameKPV.vcxproj -> C:\Users\Rohith\Desktop\git\github\cpp\chess_project\CPP-Team\UI_Team\Kavya\ChessGameKPV_v2\x64\Debug\ChessGameKPV.exe

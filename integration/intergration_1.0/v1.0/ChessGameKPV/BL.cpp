@@ -52,6 +52,8 @@ GAMESTATUS checkerClass :: stopper(int b_si)
 
     if (stopperID > 0)
         return PLAY;
+    else if (rIndex >= (b_si * b_si))
+        return WON;
     else
         return LOSS;
 }
