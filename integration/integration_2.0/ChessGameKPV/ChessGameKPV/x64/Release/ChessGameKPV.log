@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(143,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(143,80): warning C4244:         with
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(143,80): warning C4244:         [
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(143,80): warning C4244:             T=float
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(143,80): warning C4244:         ]
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(143,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(143,61): warning C4244:         with
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(143,61): warning C4244:         [
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(143,61): warning C4244:             T=float
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(143,61): warning C4244:         ]
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(145,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(145,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(187,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(187,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 141 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ChessGameKPV.vcxproj -> C:\Users\Kavya\source\repos\ChessGameKPV\x64\Release\ChessGameKPV.exe

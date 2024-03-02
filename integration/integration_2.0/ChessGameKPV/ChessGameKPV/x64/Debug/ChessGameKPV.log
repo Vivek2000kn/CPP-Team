@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(162,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(162,80): warning C4244:         with
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(162,80): warning C4244:         [
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(162,80): warning C4244:             T=float
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(162,80): warning C4244:         ]
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(162,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(162,61): warning C4244:         with
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(162,61): warning C4244:         [
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(162,61): warning C4244:             T=float
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(162,61): warning C4244:         ]
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(164,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(164,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(185,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(185,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kavya\source\repos\ChessGameKPV\ChessGameKPV\main.cpp(55,10): warning C4101: 'gh': unreferenced local variable
+  ChessGameKPV.vcxproj -> C:\Users\Kavya\source\repos\ChessGameKPV\x64\Debug\ChessGameKPV.exe
